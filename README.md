@@ -1,1 +1,0 @@
-# tugas-7-analisis-runtun-waktu
